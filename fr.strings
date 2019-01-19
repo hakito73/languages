@@ -91,7 +91,7 @@
 "DEEPLINK" = "Lien profond";
 "GPX" = "GPX Routing";
 "NODONOR" = "Cette fonctionnalité nécessite l'accès des donateurs. Activez votre version dans les paramètres.";
-"LOGOUT" = "Connectez - Out";
+"LOGOUT" = "Déconnexion";
 "ACTIVATED" = "Version du donateur activée";
 "NOTADONOR" = "Vous n'êtes actuellement pas un donateur. Appelez-nous en faisant un don maintenant en utilisant le lien sous Paramètres. Si vous avez fait un don, cela peut prendre du temps pour activer le nouveau rôle sur votre compte Discord. Si vous rencontrez toujours des problèmes, visitez-nous sur Reddit ou Discord.";
 "STATUS" = "Statut";
